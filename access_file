@@ -1,0 +1,3 @@
+import os
+#os.system('start <your directory>') example below:
+os.sytem('start C:\Users\hs475\Desktop\')
